@@ -306,11 +306,14 @@ a {
           <div class="col-lg-3 col-xs-2"></div>
           <div class="col-lg-3 col-xs-4">
             <h4 id="linkheader">My portfolio</h4>
-            <p>Portfolio: <a href="https://github.com/jamiedumayne/portfolio"
+            <p>Photo portfolio: <a href="https://500px.com/jamiedumayne/galleries/portfolio"
 
-                target="_blank">Github</a> <br>
-            <p>Science Festival: <a href="https://www.tiktok.com/@newtownsciencefest"
-                target="_blank">Tiktok</a> </p>
+                target="_blank">500px</a> <br>
+              Graphic design Portfolio: <a href="https://www.behance.net/jamiedumay0c3c"
+
+                target="_blank">Behance</a> <br>
+              Video: <a href="https://www.youtube.com/channel/UCdgjywKFrDXY9RQFii6zlUA"
+                        target="_blank">Youtube</a> </p>
           </div>
           <div class="col-lg-3 col-xs-4">
             <h4 id="linkheader">Contact</h4>
