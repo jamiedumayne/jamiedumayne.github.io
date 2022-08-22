@@ -71,31 +71,11 @@ a {
       <div class="row">
         <div class="col-lg-12">
           <p><br>
-            Hi there. I’m Jamie. I’ve just graduated from Aberystwyth University
-            with a master's degree in Astrophysics. I'm currently travelling the
+            Hi there. I’m Jamie. I’m a PhD student at Lancaster University. I'm currently travelling the
             world, visiting new countries and trying new jobs. In my spare time
             I'm a freelance photographer. I finished 2018 by working in Mexico
             (for the day of the dead) and then Finnish Lapland.<br>
             <br>
-            Sports. You know, a few years ago if you’d asked me if I did sports
-            I’d call you crazy. Well things change. I’m an avid runner, having
-            completed a marathon and a couple of half marathons. I also coached
-            the long distance training at the University’s running club. <br>
-            <br>
-            My favourite book in the world is 'The ocean at the end of the lane'
-            by Neil Gaiman. I'd strongly recommend it, especially if you want to
-            get a sense of everyday British culture. It's a kids book, written
-            for adults. I'm also a huge movie fan. My current favourite movies
-            are: <a href="https://www.youtube.com/watch?v=p4-6qJzeb3A" target="_blank"
-
-              alt="Kubo movie trailer">Kubo and the two strings</a> and <a href="https://www.youtube.com/watch?v=zTvJJnoWIPk"
-
-              target="_blank">Baby Driver</a>. The upcoming movies that I'm
-            excited for are: <a href="https://www.youtube.com/watch?v=go6GEIrcvFY"
-
-              target="_blank">Shazam</a> and <a href="https://www.youtube.com/watch?v=tg52up16eq0"
-
-              target="_blank">Spider-man: Into the Spider-verse</a>.<br>
           </p>
         </div>
       </div>
@@ -110,7 +90,7 @@ a {
         </div>
         <div class="col-lg-12">
           <p><br>
-            I made some maps to show my travels around the world so far. <br>
+            I made a map using Python of the places where I've been so far. <br>
             <br>
             <img id="map" src="Europe.png" alt="Map of Europe" width="83.5%"> <br>
             <br>
@@ -326,15 +306,11 @@ a {
           <div class="col-lg-3 col-xs-2"></div>
           <div class="col-lg-3 col-xs-4">
             <h4 id="linkheader">My portfolio</h4>
-            <p>Photo portfolio: <a href="https://500px.com/jamiedumayne/galleries/portfolio"
+            <p>Portfolio: <a href="https://github.com/jamiedumayne/portfolio"
 
-                target="_blank">500px</a> <br>
-              Graphic design Portfolio: <a href="https://www.behance.net/jamiedumay0c3c"
-
-                target="_blank">Behance</a> <br>
-              Video: <a href="https://www.youtube.com/channel/UCdgjywKFrDXY9RQFii6zlUA"
-
-                target="_blank">Youtube</a> </p>
+                target="_blank">Github</a> <br>
+            <p>Science Festival: <a href="https://www.tiktok.com/@newtownsciencefest"
+                target="_blank">Tiktok</a> </p>
           </div>
           <div class="col-lg-3 col-xs-4">
             <h4 id="linkheader">Contact</h4>
