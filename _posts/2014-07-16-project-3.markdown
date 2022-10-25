@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-img: poke_icon.png
-alt: A pokeball, with the text which pokemon is the best
-description: I used data science to answer the question once and for all, Which Pokemon is the best? Code available on <a href="https://www.kaggle.com/code/jamiedumayne/which-pokemon-is-the-best/notebook" target="_blank">Kaggle</a>
+img: KNN_icon.png
+alt: Medicine image
+description: Developed a machine learning model to classify someone's liklihood of having diabetes. Code available on <a href="https://www.kaggle.com/code/jamiedumayne/diabetes-data-set-knn/notebook"  target="_blank">Kaggle</a>.
 ---

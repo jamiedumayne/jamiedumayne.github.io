@@ -1,7 +1,8 @@
 ---
 layout: default
 modal-id: 2
-img: KNN_icon.png
-alt: Medicine image
-description: Developed a machine learning model to classify someone's liklihood of having diabetes. Code available on <a href="https://www.kaggle.com/code/jamiedumayne/diabetes-data-set-knn/notebook"  target="_blank">Kaggle</a>
+date: 2014-07-14
+img: safe.png
+alt: image-alt
+description: I carried out a 3 month internship with the defense company Leonardo. I worked to clean gigabytes of data to make ready for machine learning, which I then used to build CNN models. The CNN models needed to be able to classify radar images quickly on low spec hardware. Unfortunately, due to the secretive nature of the defence industry this code is not available.
 ---

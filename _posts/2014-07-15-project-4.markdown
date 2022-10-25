@@ -1,8 +1,7 @@
 ---
 layout: default
 modal-id: 4
-img: watch_history.png
-alt: Popcorn and a drink with the text, exploring viewing history
-description: I used data science to explore my watch history on Netflix. I downloaded the data from Netflix, then formatted it into a usable state. I could then make a plot of the top 20 things I've watched. Future updates would be to add in data from other streaming services. The code can be seen <a href="https://www.kaggle.com/code/jamiedumayne/netflix-data/notebook"  target="_blank">Kaggle</a>.
----
+img: poke_icon.png
+alt: A pokeball, with the text which pokemon is the best
+description: I used data science to answer the question once and for all, Which Pokemon is the best? Code available on <a href="https://www.kaggle.com/code/jamiedumayne/which-pokemon-is-the-best/notebook" target="_blank">Kaggle</a>
 ---
