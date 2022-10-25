@@ -39,11 +39,12 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: http://github.com/jekyll
-  - title: instagram
-    url: https://www.instagram.com/astro_phd/
+    url: https://github.com/jamiedumayne/portfolio
   - title: linkedin
     url: https://www.linkedin.com/in/jamiedumayne/
+  - title: instagram
+    url: https://www.instagram.com/astro_phd/
+  
   - title: twitter
     url: http://twitter.com/jekyllrb
   
