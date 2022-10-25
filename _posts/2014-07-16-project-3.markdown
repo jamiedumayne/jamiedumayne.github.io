@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-img: pokemon.png
+img: poke_icon.png
 alt: A pokeball, with the text which pokemon is the best
 description: I used data science to answer the question once and for all, Which Pokemon is the best? Code available on <a href="https://www.kaggle.com/code/jamiedumayne/which-pokemon-is-the-best/notebook" target="_blank">Kaggle</a>
 ---
