@@ -4,8 +4,5 @@ modal-id: 5
 date: 2014-07-14
 img: safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I carried out a 3 month internship with the defense company Leonardo. I worked to clean gigabytes of data to make ready for machine learning, which I then used to build CNN models. The CNN models needed to be able to classify radar images quickly on low spec hardware. Unfortunately, due to the secretive nature of the defence industry this code is not available.
 ---
