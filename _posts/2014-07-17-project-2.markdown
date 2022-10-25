@@ -1,8 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-14
-img: safe.png
+img: radar.png
 alt: image-alt
-description: I carried out a 3 month internship with the defense company Leonardo. I worked to clean gigabytes of data to make ready for machine learning, which I then used to build CNN models. The CNN models needed to be able to classify radar images quickly on low spec hardware. Unfortunately, due to the secretive nature of the defence industry this code is not available.
+description: I carried out a 3 month internship with the defense company Leonardo. I worked to clean gigabytes of data to make ready for machine learning, which I then used to build CNN models in Matlab. The CNN models needed to be able to classify radar images quickly on low spec hardware. Unfortunately, due to the secretive nature of the defence industry this code is not available.
 ---
