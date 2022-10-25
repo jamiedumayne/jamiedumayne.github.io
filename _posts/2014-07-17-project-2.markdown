@@ -3,5 +3,5 @@ layout: default
 modal-id: 2
 img: KNN_icon.png
 alt: Medicine image
-description: Developed a machine learning model to classify someone's liklihood of having diabetes.
+description: Developed a machine learning model to classify someone's liklihood of having diabetes. Code available on <a href="https://www.kaggle.com/code/jamiedumayne/diabetes-data-set-knn/notebook">Kaggle</a>
 ---
