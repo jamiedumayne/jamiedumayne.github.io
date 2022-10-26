@@ -3,5 +3,5 @@ layout: default
 modal-id: 6
 img: sn_icon.png
 alt: Star explosion, with text supernova (coming soon)
-description: During my PhD I worked on using machine learning to classify supernova. More detail coming soon.
+description: During my PhD I worked on using machine learning to classify supernova. More details coming soon.
 ---
