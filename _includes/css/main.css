@@ -482,3 +482,9 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.float-child {
+    width:  50%;
+    float:  left;
+    padding:  20px;
+}
