@@ -490,6 +490,7 @@ footer .footer-below {
     text-align:  center;
 }
 
-#skills a:link {
+#about a:link,
+#about a:visited {
     color: black;
 }
