@@ -489,3 +489,7 @@ footer .footer-below {
     padding:  20px;
     text-align:  center;
 }
+
+#skills a:link {
+    color: black;
+}
