@@ -494,3 +494,7 @@ footer .footer-below {
 #about a:visited {
     color: #d62e11;
 }
+
+#skills p {
+    text-align: left;
+}
