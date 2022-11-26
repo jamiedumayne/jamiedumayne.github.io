@@ -495,7 +495,6 @@ footer .footer-below {
     color: #f0bdf7;
 }
 
-
 #skills p 
 .wrapper{
     width: 40%;
@@ -511,91 +510,4 @@ footer .footer-below {
     background-color: white;
     border-radius: 10px;
     box-shadow: 0 20px 30px rgba(0,0,0,0.2);
-} 
-
-.container *{
-    font-family: "Poppins",sans-serif;
-    color: black;
-    font-weight: 500;
-}
-
-h3{
-    margin-bottom: 50px;
-    letter-spacing: 2px;
-    text-align: center;
-    font-size: 33px;
-    font-weight: bold;
-}
-
-.details{
-    width: 100%;
-    display: flex;  
-    justify-content: space-between;
-    margin-bottom: 10px;
-}
-.bar{
-    position: relative;
-
-    border: 2px solid #0d96e0;
-
-    border-radius: 20px;
-
-}
-.bar div{
-    position: relative;
-    width: 0;
-    height: 9px;
-    border-radius: 10px;
-    background-color: #0d96e0;
-
-
-}
-.skills:not(:last-child){
-    margin-bottom: 30px;
-}
-
-#c-bar{
-    animation: C-fill 2s forwards;
-}
-@keyframes c-fill{
-    100%{
-        width: 90%;
-    }
-}
-
-#HTML-bar{
-    animation: HTML-fill 2s forwards;
-}
-@keyframes HTML-fill{
-    100%{
-        width: 75%;
-    }
-}
-
-
-#matlab-bar{
-    animation: matlab-fill 2s forwards;
-}
-@keyframes matlab-fill {
-    100%{
-        width: 72%;
-    }
-}
-
-#Python-bar{
-    animation: Python-fill 2s forwards;
-}
-@keyframes Python-fill{
-    100%{
-        width: 58%;
-    }
-} 
-
-#sql-bar{
-    animation: sql-fill 2s forwards;
-}
-@keyframes sql-fill{
-    100%{
-        width: 58%;
-    }
 } 
