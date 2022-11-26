@@ -496,4 +496,8 @@ footer .footer-below {
 }
 
 #skills 
+{
+    margin:0;
+    padding:0;
+}
 
